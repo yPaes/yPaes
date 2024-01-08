@@ -1,6 +1,6 @@
 
-[!Discord]()
-![yPaes GitHub stats](https://github-readme-stats.vercel.app/api?username=yPaes_icons=true&theme=dracula&count_private=true)
+[!Discord](https://discord.com/invite/bKV4tk52)
+![yPaes GitHub stats](https://github-readme-stats.vercel.app/api?username=devfraga/yPaes_icons=true&theme=dracula&count_private=true)
 
 
 <div style="display: inline_block">
